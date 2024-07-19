@@ -1,0 +1,87 @@
+[
+      {
+        "id": 1,
+        "item": "Car",
+        "model": "Toyota Camry",
+        "description": "Reliable mid-size sedan with excellent fuel economy. Features include GPS navigation, backup camera, and Bluetooth connectivity.",
+        "renter": "John Doe",
+        "startDate": "2024-07-05",
+        "endDate": "2024-07-10",
+        "dailyRate": 50.00,
+        "status": "active",
+        "image": {
+          "url": "https://images.wapcar.my/file1/f58b78c706534f738c160e34f3add68c_912x516.jpg",
+          "alt": "Silver Toyota Camry",
+          "width": 800,
+          "height": 600
+        }
+      },
+      {
+        "id": 2,
+        "item": "Bicycle",
+        "model": "Trek FX 3 Disc",
+        "description": "Versatile hybrid bike suitable for city rides and light trails. Equipped with disc brakes for all-weather stopping power and a comfortable upright riding position.",
+        "renter": "Emma Wilson",
+        "startDate": "2024-07-15",
+        "endDate": "2024-07-17",
+        "dailyRate": 25.00,
+        "status": "active",
+        "image": {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyd454FSjZGqg_DtMBsIz501iwlNaLwR5CZw&s",
+          "alt": "Black Trek FX 3 Disc bicycle",
+          "width": 600,
+          "height": 400
+        }
+      },
+      {
+        "id": 3,
+        "item": "Camera",
+        "model": "Canon EOS R5",
+        "description": "Professional-grade full-frame mirrorless camera. Features 45MP sensor, 8K video recording, and advanced autofocus system. Ideal for both photography and videography.",
+        "renter": "Michael Chang",
+        "startDate": "2024-08-01",
+        "endDate": "2024-08-07",
+        "dailyRate": 75.00,
+        "status": "active",
+        "image": {
+          "url": "https://example.com/images/canon-eos-r5.jpg",
+          "alt": "Canon EOS R5 mirrorless camera",
+          "width": 1024,
+          "height": 768
+        }
+      },
+      {
+        "id": 4,
+        "item": "Kayak",
+        "model": "Wilderness Systems Pungo 120",
+        "description": "12-foot recreational kayak perfect for lakes and calm rivers. Features a comfortable seat, ample storage space, and excellent stability for beginners and intermediate paddlers.",
+        "renter": "Sarah Johnson",
+        "startDate": "2024-07-20",
+        "endDate": "2024-07-22",
+        "dailyRate": 40.00,
+        "status": "active",
+        "image": {
+          "url": "https://example.com/images/pungo-kayak.jpg",
+          "alt": "Red Wilderness Systems Pungo 120 kayak",
+          "width": 800,
+          "height": 600
+        }
+      },
+      {
+        "id": 5,
+        "item": "Drone",
+        "model": "DJI Mavic Air 2",
+        "description": "Compact and powerful drone with 4K/60fps video, 48MP photos, and 34-minute flight time. Includes obstacle avoidance and intelligent flight modes for easy aerial photography.",
+        "renter": "Alex Rodriguez",
+        "startDate": "2024-08-10",
+        "endDate": "2024-08-12",
+        "dailyRate": 60.00,
+        "status": "pending",
+        "image": {
+          "url": "https://example.com/images/dji-mavic-air2.jpg",
+          "alt": "DJI Mavic Air 2 drone",
+          "width": 900,
+          "height": 600
+        }
+      }
+    ]
